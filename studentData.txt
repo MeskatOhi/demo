@@ -27,14 +27,4 @@
 27 Anthony C
 28 Heather A
 29 Eric B
-30 Elizabeth F
-31 Adam A
-32 Megan C
-33 Melissa F
-34 Kevin F
-35 Steven B
-36 Thomas C
-37 Timothy F
-38 Christina C
-39 Kyle A
-40 Rachel A
+30 Elizabeth A
